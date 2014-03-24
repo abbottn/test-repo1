@@ -1,0 +1,1 @@
+Hello world.  This isn't code...but really Git can store anything you like.
